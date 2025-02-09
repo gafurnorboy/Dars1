@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Dars 1 text.
+=======
+Darsimga tayyorgarlik qildim.
+>>>>>>> main

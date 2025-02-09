@@ -1,1 +1,4 @@
-Dars 2 soz.
+<<<<<<< HEAD
+=======
+Domlaga kursatish uchun.
+>>>>>>> main
